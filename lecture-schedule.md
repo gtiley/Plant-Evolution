@@ -7,6 +7,7 @@ permalink: /lecture-schedule/
 The lecuture meets three times a week from 10:40-11:30 on Monday, Wednesday, and Friday (3 credit hours). Lectures on Monday and Wednesday will mostly be Socratic and build directly from reference materials. Lectures on Friday will draw from current literature and require active participation. There will be two near-campus field trips that replace the combined lecutre and lab from 10:40-15:50 on select days. There are a number of required journal articles that should be read for class. They will typically be written beyond the scope of class materials at the time, so you will be expected to be confused. Perfection is not expected or encouraged in this class.
 
 ## Lecture Schedule 2025
+
 |Date       |Topic | Readings | Slides and Resources |
 |-----------|---------------------------------------------------|--------------------------------------------------------------------|
 |06 January | Syllabus and Intro to Plant Evoluition | Syllabus | slides|
@@ -15,7 +16,7 @@ The lecuture meets three times a week from 10:40-11:30 on Monday, Wednesday, and
 |13 January| Bryophytes |  Simpson Pp. 51-66 | slides|
 |15 January| Lycophytes | Simpson Pp. 69-92 | slides |
 |17 January| Gymnosperms | Simpson Pp. 97-119; [Dauphin et al. 2020](https://onlinelibrary.wiley.com/doi/10.1111/mec.15467) | slides|
-|20 January| MLK Day - No Class                       |  NA       | NA | NA |
+|20 January| MLK Day - No Class                       |  NA       | NA |
 |22 January| Angiosperm Anatomy | Simpson Pp. 121-135 | slides |
 |24 January| Amborella and ANA Grade | Simpson Pp. 137-145; [Zhang et al. 2020](https://www.nature.com/articles/s41586-019-1852-5) | slides |
 |27 January | Monocots 1: Acorales, Alismatales, Asparagales | Simpson Pp. 153-178 | slides |

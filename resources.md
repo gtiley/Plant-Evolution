@@ -4,9 +4,8 @@ title: Resources
 permalink: /resources/
 ---
 
-# Resources
-
 ## Class Text
+
 There is one official text book for the class that most readings will come from, *Plant Systematics*. Copies have been placed on hold in the library in lieu of having a personal copy.
 
 * Simpson MG. 2019. Plant Systematics. 3rd Edition. Academic Press. London, UK.

@@ -7,6 +7,7 @@ permalink: /lab-schedule/
 The lab meets one a week from 12:50-15:50 on Fridays. Students should be prepared to take many pictures in the lab. There will be two near-campus field trips that replace the combined lecutre and lab from 10:40-15:50 on select days. Some scientific software should be installed on personal computers in advance to use the time effectively, with instructions posted [here]({{site.baseurl}}/pre-class). Otherwise, some desktop workstations will be available to help with software-dependant assignments.
 
 ## Lab Schedule
+
 |Date       |Module | Lab Report |
 |-----------|------------------------------- |-----------------------|
 |10 January | Introduction to Identification | Using Keys and Floras |
